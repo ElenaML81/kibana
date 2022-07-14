@@ -3,7 +3,7 @@ Visualization of datasets using Elasticsearch / kibana
 
 ## Explanation of this exercise
 
-This exercise consists of performing visualizations of a dataset using Elasticsearch / kibana. 
+This exercise consists of performing visualizations of a dataset using Elasticsearch / kibana. To do the exercise we have used a Jupyter Notebook in which we have added the screenshots of the visualizations created in kibana. 
 
 To perform the exercise I have registered in the online resource of the https://www.elastic.co page which allows a free trial for 14 days. 
 
